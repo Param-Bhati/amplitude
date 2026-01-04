@@ -64,5 +64,6 @@ Amplitude doesn’t overcomplicate things.
 It just sits in your server, plays music, and minds its business.
 
 ### **Your Server’s Residential DJ**
+[![Discord Bots](https://top.gg/api/widget/1447759883368792155.svg)(https://top.gg//bot/1447759883368792155)
 
 [![Amplitude](https://discordthings.us/api/widget/1447759883368792155)](https://discordthings.us/bot/1447759883368792155)
